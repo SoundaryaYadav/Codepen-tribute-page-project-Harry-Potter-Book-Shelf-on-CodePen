@@ -1,0 +1,48 @@
+@import 
+  url('https://fonts.googleapis.com/css?family=Montez|Sofia');
+body {
+  background-color: white;
+  font-family: 'Sofia', cursive;
+}
+#logo {
+    margin: 0 auto;
+    height: 60%;
+    width: 60%;
+}
+
+#castle {
+    height: 100%;
+    width: 100%;
+    padding: 10px 0;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family:'Sofia';
+}
+
+h3 {
+    font-size: 60px;
+    text-align: center;
+  
+}
+
+p {
+  
+    font-size: 25px;
+    font-family: 'Montez', cursive;
+}
+
+ul {
+    text-align: center;
+    font-size: 40px;
+    list-style-type: none;
+}
+
+
